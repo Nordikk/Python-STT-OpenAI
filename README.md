@@ -22,7 +22,7 @@ git clone https://github.com/Nordikk/Python-STT-OpenAI.git
 2. Install the required Python packages:
 
 ```bash
-pip install -r requirements.txt
+python -m pip install -r requirements.txt
 ```
 
 3. Set up your OpenAI API key in the .env file:
